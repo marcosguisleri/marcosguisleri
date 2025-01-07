@@ -4,7 +4,7 @@
 
 ## Sobre Mim
 
-- 🔭 Atualmente estou trabalhando no 123 dias de Lógica
+- 🔭 Atualmente estou trabalhando em dois projetos meu TCC da Faculdade
 - 🌱 Estou aprendendo C# | .Net | Asp.Net Core
 - 👯 Estou procurando uma vaga como dev junior
 - 🎯 Estudante de Sistemas de Informação
