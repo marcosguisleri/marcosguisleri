@@ -4,8 +4,8 @@
 
 ## Sobre Mim
 
-- 🔭 Atualmente estou trabalhando em dois projetos meu TCC da Faculdade
-- 🌱 Estou aprendendo C# | .Net | Asp.Net Core
+- 🔭 Atualmente estou desenvolvendo meu projeto de TCC (Voluntari-ei)
+- 🌱 Estou aprendendo C# | Python | JavaScript
 - 👯 Estou procurando uma vaga como dev junior
 - 🎯 Estudante de Sistemas de Informação
 - 📫 Como me encontrar: marcos.guisleri.dev@gmail.com
