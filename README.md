@@ -23,7 +23,7 @@
 
 🥈 **2º lugar geral** na **Maratona de Programação FHO 2023**  
 🥉 **3º lugar geral** na **Maratona de Programação FHO 2024**  
-🎖️ Selecionado como **Embaixador DIO**, entre diversos candidatos, representando uma das maiores escolas de tecnologia da América Latina.  
+🎖️ Selecionado como **Embaixador DIO**, representando uma das maiores escolas de tecnologia da América Latina.  
 
 ---
 
