@@ -1,35 +1,41 @@
-# Olá, eu sou Marcos Guisleri 👋
+<h1 align="center">Olá, eu sou Marcos Guisleri 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=jetBrains+Mono&size=22&pause=1000&color=4169e1&width=435&lines=Bem-vindo+ao+meu+GitHub!;Feliz+2025!" alt="Texto Animado">
+---
 
-## Sobre Mim
+## 🚀 Quem sou eu
 
-- 🔭 Atualmente estou desenvolvendo meu projeto de TCC (Voluntari-ei)
-- 🌱 Estou aprendendo C# | Python | JavaScript
-- 👯 Estou procurando uma vaga como dev junior
-- 🎯 Estudante de Sistemas de Informação
-- 📫 Como me encontrar: marcos.guisleri.dev@gmail.com
+💻 Profissional de **Suporte Técnico** em transição para **Desenvolvimento de Software**, com foco em **Front-end** e **.NET**.  
+🎓 Estudante de **Sistemas de Informação** | Técnico em **Desenvolvimento e Design Web** pela **ETEC**.  
+💡 Apaixonado por **tecnologia** e **inovação**.
 
-## Minhas Habilidades
+---
 
-- **Linguagens:** C#, Python e React Native
-- **Frameworks:** Boostrap, Tailwind
-- **Ferramentas:** Docker, Git, UI/UX, Figma
-- **Bancos de Dados:** MySql
+## 🎯 O que estou fazendo agora
 
-## Projetos
+- Desenvolvendo meu **TCC**: plataforma mobile **Voluntari-ei** (alocação de voluntários para ações filantrópicas).  
+- Participando do **Bootcamp WEX** como **.NET Dev** e **QA**.  
+- Aprimorando JavaScript/TypeScript e React.  
+- Estudando **Inglês** para ampliar oportunidades.
 
-Aqui estão alguns dos projetos em que trabalhei:
+---
 
-- [União São João EC](https://uniaosaojoaoweb.vercel.app/) - União São João Web é uma plataforma online que facilita o acesso a informações do União São João time da minha cidade, oferecendo uma experiência simples e eficiente para o público.
-- [Irrigação Smart](https://irrigacao-smart-6qa8x13g0-marcos-guisleris-projects.vercel.app/) - Solução de automação acessível e inteligente para irrigação de plantas domésticas, proporcionando praticidade e eficiência no cuidado das plantas.
+## 🏆 Conquistas Recentes
 
-Estou trabalhando:
+🥈 **2º lugar geral** na **Maratona de Programação FHO 2023**  
+🥉 **3º lugar geral** na **Maratona de Programação FHO 2024**  
+🎖️ Selecionado como **Embaixador DIO**, entre diversos candidatos, representando uma das maiores escolas de tecnologia da América Latina.  
 
-- [123 Dias de Lógica](https://github.com/marcosguisleri/123DiasDeLogica) - Desafio de resolver 123 exercícios de lógica de programação em 123 dias. As soluções dos exercícios está sendo feita na linguagem C# e no ambiente de desenvolvimento Visual Studio.
+---
 
-## Entre em Contato
+## 🛠️ Minhas principais ferramentas
 
-Sinta-se à vontade para entrar em contato comigo via [Email](mailto:marcos.guisleri.dev@gmail.com) ou conectar-se comigo no [LinkedIn](https://www.linkedin.com/in/marcosguisleri/).
+- JavaScript, TypeScript, React  
+- C# e .NET  
+- Figma e design UX/UI  
+- Git, Docker
 
-Obrigado por visitar meu perfil! Tenha um ótimo dia! 😊
+---
+
+## 📬 Vamos conversar?
+
+[LinkedIn](https://www.linkedin.com/in/marcosguisleri/) | [Email](mailto:marcos.guisleri.dev@gmail.com)
