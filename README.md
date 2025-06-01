@@ -38,4 +38,4 @@
 
 ## 📬 Vamos conversar?
 
-[LinkedIn](https://www.linkedin.com/in/marcosguisleri/) | [Email](mailto:marcos.guisleri.dev@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/marcosguisleri/) | [Email](mailto:marcos.guisleri.dev@gmail.com) |  [DIO](https://www.dio.me/users/marcosguisleri)
