@@ -1,41 +1,52 @@
-<h1 align="center">Olá, eu sou Marcos Guisleri 👋</h1>
+## Olá, eu sou Marcos Guisleri
+
+Desenvolvedor **Front-end** com foco em **React, Tailwind CSS e Vite**, com base sólida em **C# e .NET no back-end**.  
+Atualmente atuo como Suporte Técnico, mas com foco total em consolidação profissional como desenvolvedor.
 
 ---
 
-## 🚀 Quem sou eu
-
-💻 Profissional de **Suporte Técnico** em transição para **Desenvolvimento de Software**, com foco em **Front-end** e **.NET**.  
-🎓 Estudante de **Sistemas de Informação** | Técnico em **Desenvolvimento e Design Web** pela **ETEC**.  
-💡 Apaixonado por **tecnologia** e **inovação**.
-
----
-
-## 🎯 O que estou fazendo agora
-
-- Desenvolvendo meu **TCC**: plataforma mobile **Voluntari-ei** (alocação de voluntários para ações filantrópicas).  
-- Participando do **Bootcamp WEX** como **.NET Dev** e **QA**.  
-- Aprimorando JavaScript/TypeScript e React.  
-- Estudando **Inglês** para ampliar oportunidades.
+### 🚀 Stack Front-end
+- HTML5, CSS3, JavaScript (ES6+)
+- React, TypeScript
+- Tailwind CSS, Vite
+- React Hooks, Context API
+- Axios, Fetch API
+- Git, GitHub
 
 ---
 
-## 🏆 Conquistas Recentes
-
-🥈 **2º lugar geral** na **Maratona de Programação FHO 2023**  
-🥉 **3º lugar geral** na **Maratona de Programação FHO 2024**  
-🎖️ Selecionado como **Embaixador DIO**, representando uma das maiores escolas de tecnologia da América Latina.  
-
----
-
-## 🛠️ Minhas principais ferramentas
-
-- JavaScript, TypeScript, React  
-- C# e .NET  
-- Figma e design UX/UI  
-- Git, Docker
+### 🎨 UI / Design
+- Figma (prototipação e UI)
+- Design responsivo
+- Noções de UX/UI
 
 ---
 
-## 📬 Vamos conversar?
+### 🔧 Back-end (base técnica)
+- C#
+- .NET
+- APIs REST
 
-[LinkedIn](https://www.linkedin.com/in/marcosguisleri/) | [Email](mailto:marcos.guisleri.dev@gmail.com) |  [DIO](https://www.dio.me/users/marcosguisleri)
+---
+
+### 📌 Foco atual
+- Desenvolvimento de aplicações front-end modernas
+- Componentização e boas práticas em React
+- Integração com APIs
+- Evolução contínua em performance e qualidade de código
+
+---
+
+### ⭐ Projetos em destaque
+- **ABC Turismo** – Site institucional responsivo
+- **Pro-Ocean** – Projeto acadêmico com foco em UI
+- **Irrigação Smart** – Projeto IoT com Arduino
+- **Desafios .NET** – Fundamentos e prática em C#
+
+*(repositórios fixados no perfil)*
+
+---
+
+### 📫 Contato
+- LinkedIn: https://linkedin.com/in/marcosguisleri  
+- Email: marcos.guisleri.dev@gmail.com
