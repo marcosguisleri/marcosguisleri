@@ -1,52 +1,68 @@
-## Olá, eu sou Marcos Guisleri
+# 👋 Olá, eu sou Marcos Guisleri
 
-Desenvolvedor **Front-end** com foco em **React, Tailwind CSS e Vite**, com base sólida em **C# e .NET no back-end**.  
-Atualmente atuo como Suporte Técnico, mas com foco total em consolidação profissional como desenvolvedor.
+🎓 Bacharel em **Sistemas de Informação**  
+📚 Pós-graduação em andamento: **Java Elite – UNIPDS**  
 
----
-
-### 🚀 Stack Front-end
-- HTML5, CSS3, JavaScript (ES6+)
-- React, TypeScript
-- Tailwind CSS, Vite
-- React Hooks, Context API
-- Axios, Fetch API
-- Git, GitHub
+💡 Objetivo: atuar como **Desenvolvedor Fullstack**, com foco principal em **Java Back-end** e diferencial em **Front-end e Design**.
 
 ---
 
-### 🎨 UI / Design
-- Figma (prototipação e UI)
-- Design responsivo
-- Noções de UX/UI
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Respirando+Java+todos+os+dias...;Fullstack+em+evolução+constante...;Disciplina+diária:+código,+commits+e+aprendizado...)](https://git.io/typing-svg)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
 
-### 🔧 Back-end (base técnica)
-- C#
-- .NET
-- APIs REST
+## 🚀 Stack Atual
+* **Back-end:** Java, Spring Boot, JUnit, APIs REST, Multithreading & Concorrência  
+* **Front-end:** React, TypeScript, Tailwind CSS, Vite  
+* **Banco de Dados:** SQL & NoSQL  
+* **Infraestrutura:** Docker, Kubernetes, AWS  
+* **Ferramentas:** Git, GitHub, IntelliJ IDEA  
 
 ---
 
-### 📌 Foco atual
-- Desenvolvimento de aplicações front-end modernas
-- Componentização e boas práticas em React
-- Integração com APIs
-- Evolução contínua em performance e qualidade de código
+## ⭐ Projetos em destaque
+* **Voluntari-ei (TCC)** – Aplicativo móvel para conectar instituições filantrópicas a voluntários.  
+  Tecnologias: React Native, Expo, Gluestack UI v2, NativeWind, Fastify, Prisma ORM, PostgreSQL  
 
----
+* **EcoHub (Pré-TCC)** – Plataforma online que conecta projetos acadêmicos de sustentabilidade a investidores.  
+  Tecnologias: HTML, CSS/Tailwind, JavaScript, Vercel  
 
-### ⭐ Projetos em destaque
-- **ABC Turismo** – Site institucional responsivo
-- **Pro-Ocean** – Projeto acadêmico com foco em UI
-- **Irrigação Smart** – Projeto IoT com Arduino
-- **Desafios .NET** – Fundamentos e prática em C#
+* **Sistema de Gerenciamento de Veículos** – Mini projeto em Java para treinar Programação Orientada a Objetos (POO).  
+  Tecnologias: Java (POO, ArrayList)  
+
+* **ForgeCore – Fábrica de Computadores** – Sistema em C# com interface gráfica (Windows Forms) aplicando Design Patterns.  
+  Tecnologias: C#, Windows Forms, Visual Studio  
+
+* **FastFoodAdminPanel 🍔** – Painel de administração para gerenciamento de cardápio de fast food.  
+  Tecnologias: PHP, MySQL, HTML, CSS, Bootstrap, Plotly, MVC  
+
+* **OneDo ✅** – Minimal API em C# para gerenciamento de tarefas.  
+  Tecnologias: C#/.NET Minimal API, DTOs, validação, persistência em memória  
 
 *(repositórios fixados no perfil)*
 
 ---
 
-### 📫 Contato
-- LinkedIn: https://linkedin.com/in/marcosguisleri  
-- Email: marcos.guisleri.dev@gmail.com
+## 🎯 Desafio Atual
+* **Beecrowd em Java** – Desafio pessoal de resolver exercícios da plataforma para treinar lógica de programação e disciplina de código.  
+  > Repositório dedicado disponível no perfil, atualizado com commits frequentes.  
+
+---
+
+## 📌 Foco atual
+* Desenvolvimento back-end com **Java e Spring Boot**  
+* Boas práticas de arquitetura e testes automatizados  
+* Evolução contínua em algoritmos e estruturas de dados  
+* Consolidação como **Fullstack Developer**  
+
+---
+
+## 📫 Contato
+* [LinkedIn](https://linkedin.com/in/marcosguisleri)  
+* **Email:** marcos.guisleri.dev@gmail.com
